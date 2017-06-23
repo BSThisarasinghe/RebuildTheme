@@ -1,0 +1,346 @@
+#header{
+	background-color: black;
+	color: white;
+	padding-top: 15px;
+	padding-left: 40px;
+	padding-bottom: 10px;
+}
+
+#bigBar{
+	background-color: #2a2b27;
+	height: 150px;
+	padding-top: 25px;
+}
+
+#container div{
+	margin-right: 0px;
+	color: white;
+}
+
+.logos li{
+	display: inline-block;
+}
+
+#phoneNumber{
+	text-align: right;
+}
+
+#number{
+	color: #e8bc16;
+	font-size: 30pt;
+}
+
+#navBar{
+	background-color: white;
+	color: black;
+	border: 1px solid white;
+}
+
+#search{
+	background-color: #2a2b27;
+	color: white; 
+}
+
+#background{
+	height: 600px;
+	background: url(../Images/home-intro.jpg);
+}
+
+#logo{
+	margin-top: 90px;
+}
+
+#orange{
+	height: 100px;
+	background-color:  #f9b73d;
+	position: relative;
+}
+
+#letGo{
+	margin-top: 30px;
+	font-size: 22pt;
+	font-family: 'Raleway', sans-serif;
+}
+
+#buyNow{
+	font-weight: bold;
+	font-family: 'Raleway', sans-serif;
+	text-decoration: none;
+	box-sizing: border-box;
+	border: 2px solid black;
+	color: white;
+	background-color: black;
+	font-size: 15pt;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 30px;
+	padding-left: 30px;
+	position: absolute;
+	top: 20px;
+	right: 30px;
+	border-radius: 4px;
+	transition: background-color 300ms ease-in-out;
+	transition: color 150ms ease-in-out;
+}
+
+#buyNow:hover{
+	background-color: #f9b73d;
+	color: black;
+}
+
+#computer{
+	width: 100%;
+	height: 100%;
+}
+
+#computerDiv{
+	background-color:  #eeebe6;
+}
+
+.links{
+	color: black;
+}
+
+.links:hover{
+	text-decoration: none;
+	color: black;
+}
+
+.grayDiv{
+	background-color: #474543;
+}
+
+#topic{
+	color: white;
+}
+
+.grid{
+	width: 100%;
+	height: 100%;
+	margin-top: 100px;
+	margin-bottom: 20px;
+}
+
+.hyper{
+	color: black;
+	box-sizing: border-box;
+	background-color: #f9b73d;
+	font-size: 13pt;
+	padding: 10px;
+	border-radius: 6px;
+	border: 1px solid #f9b73d;
+}
+
+.hyper:hover{
+	text-decoration: none;
+	background: none;
+	border: 1px solid #f9b73d;
+	color: #f9b73d;
+}
+
+#bottomGray{
+	padding-bottom: 50px;
+}
+
+#yellowDiv{
+	background-color: #e0c83b ;
+	font-family: 'Raleway', sans-serif;
+}
+
+#flatLaptop{
+	width: 100%;
+	height: 100%;
+	margin-top: 100px;
+}
+
+#yellowDiv h1{
+	margin-top: 80px;
+	font-weight: bolder;
+	font-size: 50pt;
+
+}
+
+#yellowDiv p{
+	font-size: 14pt;
+
+}
+
+#sitesBrowser{
+	width: 100%;
+	height: 100%;
+	margin-bottom: 100px;
+}
+
+#themeOption{
+	text-align: center;
+}
+
+#themeOptions2{
+	width: 100%;
+	height: 100%;
+}
+
+#rebuild{
+	padding-top: 100px;
+	background-color:  #3f3f3b;
+	color: white;
+	padding-bottom: 100px;
+}
+
+#woocommerce{
+	padding-top: 100px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 13pt;
+}
+
+#desktopComputer{
+	width: 100%;
+	height: 100%;
+}
+
+#thinGrayLayer{
+	background-color:  #272624;
+	color: white;
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+#plugins{
+	padding-top: 100px;
+}
+
+#stock{
+	width: 100%;
+	height: 100%;
+}
+
+#visualComposer{
+	background-color: #272624;
+	color: white;
+	padding-top: 100px;
+}
+
+#bold{
+	font-size: 40pt;
+	font-family:  'Raleway', sans-serif;
+}
+
+#vcm{
+	width: 100%;
+	height: 100%;
+}
+
+#revSlider{
+	width: 100%;
+	height: 100%;
+}
+
+#essentialGrid{
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+#esential{
+	width: 100%;
+	height: 100%;
+}
+
+#video{
+	background: url(../Images/crissXcross.png) repeat;
+	padding-top: 80px;
+	color: white;
+	text-align: center;
+}
+
+#video h1{
+	font-size: 35pt;
+}
+
+#video p{
+	font-size: 30pt;
+}
+
+#videpTute{
+	width: 100%;
+	height: 100%;
+}
+
+#wellDocumented{
+	padding-top: 100px;
+	font-size: 1.3em;
+}
+
+#document{
+	width: 100%;
+	height: 100%;
+}
+
+#letUsHelp{
+	margin-top: 120px;
+}
+
+#beforeFooter{
+	padding-top: 100px;
+	padding-bottom: 100px;
+	background: url(../Images/stock-bg.jpg);
+}
+
+.footer{
+	background-color: #272624;
+	padding-top: 100px;
+	color: #c8c7c5;
+}
+
+#rebuilder{
+	color: orange;
+	text-decoration: none;
+
+}
+
+#rebuilder:hover{
+	color: black;
+}
+
+.icon{
+	box-sizing: border-box;
+	border: 1px solid gray;
+	padding: 10px;
+	display: inline-block;
+}
+
+#fb:hover{
+	background-color: #3066d4;
+}
+
+#tw:hover{
+	background-color: #78c1f1;
+}
+
+#gp:hover{
+	background-color: #ea3c11;
+}
+
+#yt:hover{
+	background-color: #b6300f;
+}
+
+#dr:hover{
+	background-color: #f78cf5;
+}
+
+#ins:hover{
+	background-color: #031571;
+}
+
+#pin:hover{
+	background-color: #f93815;
+}
+
+#fl:hover{
+	background-color: #f703ef;
+}
+
+
+#footerBottom{
+	padding-bottom: 100px;
+}
